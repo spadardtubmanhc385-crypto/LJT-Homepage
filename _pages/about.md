@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I am pursuing a Ph.D. in Computer Science at the Hong Kong University of Science and Technology (HKUST).
+I am a first-year PhD candidate at the HKUST NLP Group, supervised by Professor Junxian He. I am pursuing a Ph.D. in Computer Science at the Hong Kong University of Science and Technology (HKUST). Professor Junxian He also advised me during my undergraduate studies at SJTU.
 
 My research focuses on natural language processing and machine learning. My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM Truthfulness and Interpretability.
 
