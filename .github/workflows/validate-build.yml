@@ -31,3 +31,9 @@ jobs:
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
+      - name: List generated pages
+        run: find _site -name '*.html' | sort
+      - name: Show rendered publications page
+        run: cat _site/publications/index.html
+      - name: Show rendered about page
+        run: cat _site/index.html
